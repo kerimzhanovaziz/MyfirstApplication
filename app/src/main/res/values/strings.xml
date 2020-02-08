@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyfirstApplication</string>
+    <string name="set_points">Set points</string>
+    <string name="button1">PLAY</string>
+    <string name="button2">HELP</string>
+    <string name="button3">EXIT</string>
+    <string name="stick">Stick</string>
+</resources>
